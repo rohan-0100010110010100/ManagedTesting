@@ -6,7 +6,7 @@ This is a tester for matrix multiplication (matrix size: 100,00 x 100,00 ) , thi
 
 * .NET 4.6.1 
 
-**Libraries Needed ( Use NuGet Package manger to install folowing libraries )** 
+**Libraries Needed ( Use NuGet Package manager to install folowing libraries )** 
 
 * System.Numerics
 * System.Numerics.Vectors
