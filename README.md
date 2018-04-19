@@ -1,6 +1,6 @@
 # ManagedTesting
 
-This is a tester for matrix multiplication (matrix size: 100,00 x 100,00 ) , this requires Visual Studio 2017
+This is a SIMD benchmark for matrix multiplication (matrix size: 100,00 x 100,00 ) , this requires C# , Visual Studio 2017 
 
 **Requires**
 
